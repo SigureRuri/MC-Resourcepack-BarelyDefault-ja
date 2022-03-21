@@ -1,0 +1,18 @@
+{
+    "block.minecraft.acacia_sapling": "アカシアのさや",
+    "block.minecraft.birch_sapling": "シラカバの尾状花序",
+    "block.minecraft.dark_oak_sapling": "黒ずんだどんぐり",
+    "block.minecraft.dragon_head": "エンダードラゴンの頭",
+    "block.minecraft.dragon_egg": "エンダードラゴンの卵",
+    "block.minecraft.jungle_sapling": "ジャングルの種子",
+    "block.minecraft.oak_sapling": "どんぐり",
+    "block.minecraft.spruce_sapling": "トウヒの球果",
+    "block.minecraft.magma_block": "マグマ",
+    "block.minecraft.spruce_leaves": "トウヒの針葉",
+    "item.minecraft.glass_bottle": "瓶",
+    "item.minecraft.dragon_head": "エンダードラゴンの頭",
+    "item.minecraft.enchanted_golden_apple": "ノッチリンゴ",
+    "item.minecraft.turtle_helmet": "タートルシェルメット",
+    "itemGroup.search": "検索",
+    "subtitles.item.armor.equip_turtle": "タートルシェルメットが装着される"
+  }
